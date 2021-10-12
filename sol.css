@@ -1,14 +1,12 @@
 body{
-    font-family: 'Gluten', cursive;
+    font-family: 'Space Mono', monospace;
     background-color: #ebade6;
 }
-
 .card{ 
     text-align: center;
     border-radius: 5%;   
-    background-color: #d65792;
+    background-color: #d65792c0;
 }
-
 #btn{
     background-color: rgb(179, 129, 224);
     border: 2px, #000000;
@@ -18,4 +16,10 @@ body{
     background-color: #e60bdb;    
     border: 5px, #000000;
     color: #000000 ;
+}
+#pfloo{
+    text-align:right;    
+}
+.contato{
+    text-align: center;
 }
